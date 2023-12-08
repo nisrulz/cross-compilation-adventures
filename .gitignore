@@ -1,0 +1,8 @@
+### Nim ###
+nimcache/
+nimblecache/
+htmldocs/
+
+
+### Misc ###
+.DS_Store
