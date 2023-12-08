@@ -4,6 +4,8 @@
 - Supports cross-compilation to various platforms.
 - Features a lightweight syntax reminiscent of Python.
 
+[Read blog post](https://crushingcode.nisrulz.com/en/posts/cross-compilation-adventures-nim/)
+
 ---
 
 - [Install `nim`](https://formulae.brew.sh/formula/nim#default)
