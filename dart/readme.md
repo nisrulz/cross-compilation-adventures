@@ -4,7 +4,7 @@
 - **AOT Compilation Boost**: AOT compilation enhances performance by translating Dart code to native machine code.
 - **C Library Integration**: Seamless integration with C libraries expands capabilities for high-performance command-line tool development.
 
-[Read blog post](https://crushingcode.nisrulz.com/en/posts/cross-compilation-adventures-dart/)
+[Read blog post](https://crushingcode.nisrulz.com/en/posts/cross-compilation-adventures-with-dart/)
 
 ---
 
