@@ -2,6 +2,8 @@
 
 Cross Compilation adventures with various programming languages.
 
+> Read blog series [here](https://crushingcode.nisrulz.com/en/series/cross-compilation-adventures/)
+
 ## Programming Languages
 
 1. [nim-lang](/nim-lang/)
