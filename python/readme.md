@@ -43,7 +43,7 @@
 
   1. *Using [PyInstaller](https://pyinstaller.org/en/stable/)*
 
-      - [Install `pyinstaller`](https://nuitka.net/doc/download.html#pypi)
+      - [Install `pyinstaller`](https://pyinstaller.org/en/stable/#quickstart)
 
           ```bash
           python3 -m pip install -U pyinstaller
